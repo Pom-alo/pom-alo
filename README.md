@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Venci
 
-<!--
-**Pom-alo/pom-alo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical engineer working where power systems meet software. My day job is designing distribution infrastructure and grid connections for large loads at an electric utility. In my own time I build tools: GIS and mapping, AI automation, and data workflows that make engineering work faster.
 
-Here are some ideas to get you started:
+- **Power:** medium-voltage distribution, large-load interconnection, substation feeders, DER/BESS
+- **Build:** Python, JavaScript, C/C++, GIS, AI/LLM automation
+- **Education:** B.S. Electrical Engineering (Stony Brook) · B.A. Chemistry (Hunter College)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Most of my work lives in private repos. Happy to walk through it on request.
+
+[LinkedIn](https://www.linkedin.com/in/venci-t-karlic) · venci.t.karlic@gmail.com
+
+- ⚡ Fun fact: From Kukljica, Croatia
 -->
